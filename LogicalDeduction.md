@@ -130,9 +130,14 @@ ex [**both true**](#both-true)
 
 
 # **STATEMENT & ASSUMPTION**
-- We will have been given a statement
-- And some assumption based on that statement
-- We have to tell **which assumption is true or false**
+- Implicit - true
+- Explicit - false
+
+![assumption1](src/ass1.png)
+
+## Imp Que
+![assumption q1](src/assq1.png)
+
 
 <br>
 <br>
@@ -144,14 +149,36 @@ ex [**both true**](#both-true)
 
 
 # **STATEMENT & COURSE OF ACTION**
-- We will have been given a statement
-- And some actions based on that statement
-- We have to tell **which actions is appropriate to take here**
+- We will be given some **problem**
+- We will also be given some **solution**
+- We have to tell which **solution is the right one**
+
+> We have to **make people happy**, rather than solving problem
+
+## Tips and Tricks
+> Dont take any negative and harsh action
+### 1) Choose Practical and Relevent Thing
+![action q1](src/assq2.png)
+
+### 2) Action must give rise to other problems
+![action q2](src/actionq2.png)
+
+### 3) Dont take action whose result is unknown
+![action q3](src/actionq3.png)
+
+### 4) Take long term actions
+![action q4](src/actionq4.png)
+> Aage ka socho, kyu hua, kya hua woh nahi
+
+<br>
 
 
+![action q5](src/actionq5.png)
+kabhi kabhi harsh is OK, when backed with more strong action
 
+<br>
 
-
+![action q6](src/actionq6.png)
 
 
 
